@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724458192383",
+    "firebase_url": "https://margdarshak-2267a.firebaseio.com",
+    "project_id": "margdarshak-2267a",
+    "storage_bucket": "margdarshak-2267a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724458192383:android:ba0aadcf133be77432bbca",
+        "android_client_info": {
+          "package_name": "in.shopocus.margdarshak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724458192383-e08m0s9fnjbs24u9gk217sqkkmd9m1ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbb8HeZib7zUCZTHFPnWraDrGLi3QJSe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724458192383-e08m0s9fnjbs24u9gk217sqkkmd9m1ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
